@@ -1,0 +1,20 @@
+{
+    "The :attribute must contain at least one letter.": "The :attribute must contain at least one letter.",
+    "The :attribute must contain at least one number.": "The :attribute must contain at least one number.",
+    "The :attribute must contain at least one symbol.": "The :attribute must contain at least one symbol.",
+    "The :attribute must contain at least one uppercase and one lowercase letter.": "The :attribute must contain at least one uppercase and one lowercase letter.",
+    "The given :attribute has appeared in a data leak. Please choose a different :attribute.": "The given :attribute has appeared in a data leak. Please choose a different :attribute.",
+    "Profile": "Perfil",
+    "Log Out": "Cerrar Sesión",
+    "Dashboard": "Inicio",
+    "Log in": "Inicio de Sesión",
+    "Register": "Registrar",
+    "Productos": "Productos",
+    "Bienvenido": "Bienvenido",
+    "ms_login": "Ingrese su correo electrónico y contraseña para iniciar sesión",
+    "correo": "Correo electronico",
+    "pass": "Contraseña",
+    "recuerdame": "Recuerdame",
+    "Olvide mi cuenta": "Olvidé mi cuenta",
+    "Clic aqui": "Clic aquí"
+}
